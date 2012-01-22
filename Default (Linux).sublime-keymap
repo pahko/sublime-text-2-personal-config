@@ -1,0 +1,3 @@
+[
+    { "keys": ["f12"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+]
