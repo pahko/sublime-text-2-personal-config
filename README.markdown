@@ -1,0 +1,1 @@
+Ctrl+Alt+D  --> Duplicate the current line
