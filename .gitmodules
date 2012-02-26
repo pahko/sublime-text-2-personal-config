@@ -7,6 +7,3 @@
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
-[submodule "CodeIntel"]
-	path = CodeIntel
-	url = https://github.com/Kronuz/SublimeCodeIntel.git
