@@ -4,3 +4,6 @@
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/mrmartineau/jQuery.git

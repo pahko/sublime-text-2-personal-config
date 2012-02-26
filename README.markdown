@@ -8,6 +8,10 @@ Sublime Linter:
 
     https://github.com/Kronuz/SublimeLinter
 
+jQuery bundle:
+
+    https://github.com/mrmartineau/jQuery.git
+
 CoffeeScript bundle:
 
     https://github.com/jashkenas/coffee-script-tmbundle
