@@ -7,3 +7,6 @@
 [submodule "jQuery"]
 	path = jQuery
 	url = https://github.com/mrmartineau/jQuery.git
+[submodule "CodeIntel"]
+	path = CodeIntel
+	url = git://github.com/Kronuz/SublimeCodeIntel.git

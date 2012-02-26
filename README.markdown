@@ -16,6 +16,10 @@ CoffeeScript bundle:
 
     https://github.com/jashkenas/coffee-script-tmbundle
 
+SublimeCodeIntel:
+
+    https://github.com/Kronuz/SublimeCodeIntel
+
 # Install Instructions:
 
 **Linux:**
