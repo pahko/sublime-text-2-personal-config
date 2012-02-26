@@ -1,9 +1,6 @@
 [submodule "Djaneiro"]
 	path = Djaneiro
 	url = https://github.com/squ1b3r/Djaneiro.git
-[submodule "SublimeLinter"]
-	path = SublimeLinter
-	url = https://github.com/Kronuz/SublimeLinter.git
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
