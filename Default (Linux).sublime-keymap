@@ -1,3 +1,50 @@
 [
-    { "keys": ["f12"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+    { "keys": ["ctrl+r", "ctrl+d"], "command": "goto_python_definition", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+h"], "command": "python_get_documentation", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+r"], "command": "python_refactor_rename", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+e"], "command": "python_refactor_extract_method", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+v"], "command": "python_refactor_extract_variable", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+n"], "command": "python_refactor_inline_variable", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+j"], "command": "python_jump_to_global", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+i"], "command": "python_auto_import", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["ctrl+r", "ctrl+c"], "command": "python_regenerate_cache", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+    },
+    { "keys": ["f10"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+
 ]
+
