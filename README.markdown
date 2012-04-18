@@ -19,6 +19,9 @@ CoffeeScript bundle:
 SublimeCodeIntel:
 
     https://github.com/Kronuz/SublimeCodeIntel
+    
+SublimeRope
+    https://github.com/JulianEberius/SublimeRope
 
 # Install Instructions:
 
@@ -32,7 +35,8 @@ SublimeCodeIntel:
     cd ..
     rm -rf SublimeLinter
     git clone git://github.com/Kronuz/SublimeLinter.git
-
+    rm -rf SublimeRope
+    git clone git://github.com/JulianEberius/SublimeRope.git
 
 **Useful commands:**
 
