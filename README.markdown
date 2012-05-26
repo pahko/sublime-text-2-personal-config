@@ -29,7 +29,7 @@ SublimeRope
 
     cd ~/.config/sublime-text-2/Packages/User/
     rm -rf *
-    git clone git@github.com:pahko/sublime-text-2-personal-config.git .
+    git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git .
     ./init.sh
     cd ..
     rm -rf SublimeLinter
