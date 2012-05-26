@@ -20,7 +20,7 @@ SublimeCodeIntel:
 
     https://github.com/Kronuz/SublimeCodeIntel
     
-SublimeRope
+SublimeRope:
     https://github.com/JulianEberius/SublimeRope
 
 # Install Instructions:
