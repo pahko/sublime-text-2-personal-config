@@ -1,3 +1,9 @@
 Package Control.sublime-settings
 sftp_servers/
 GitHub.sublime-settings
+
+# packages
+coffee-script-tmbundle
+SublimeCodeIntel/
+Djaneiro/
+jQuery/
