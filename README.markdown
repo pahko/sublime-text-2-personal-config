@@ -50,7 +50,3 @@ SublimeRope:
     git clone git://github.com/SublimeLinter/SublimeLinter.git
     rm -rf SublimeRope
     git clone git://github.com/JulianEberius/SublimeRope.git
-
-**Useful commands:**
-
-Ctrl+Alt+D  --> Duplicate the current line
