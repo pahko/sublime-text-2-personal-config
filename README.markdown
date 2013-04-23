@@ -29,8 +29,8 @@ SublimeRope:
 **Mac OSX**
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
-    rm -rf *
-    git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git .
+    rm -rf User
+    git clone https://pahko@github.com/pahko/sublime-text-2-personal-config.git User
     ./init.sh
     cd ..
     rm -rf SublimeLinter
@@ -50,3 +50,8 @@ SublimeRope:
     git clone git://github.com/SublimeLinter/SublimeLinter.git
     rm -rf SublimeRope
     git clone git://github.com/JulianEberius/SublimeRope.git
+
+
+# Update packages
+
+    ./init.sh

@@ -9,7 +9,14 @@ PACKAGES=(
 
 size=${#PACKAGES[@]}
 for ((i=0;i<$size;i++)); do
-   git clone ${PACKAGES[${i}]}
+    folder=`echo ${PACKAGES[${i}]} | rev | cut -d'/' -f1 | rev | cut -d'.' -f1`
+
+    if [ -d $folder ]; then
+        cd $folder
+        git pull origin master
+    else
+        git clone ${PACKAGES[${i}]}
+    fi
 done
 
-echo "Packages were successfully installed."
+echo "Packages were successfully updated."
