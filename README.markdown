@@ -24,6 +24,10 @@ SublimeRope:
 
     https://github.com/JulianEberius/SublimeRope
 
+Git Gutter
+
+    https://github.com/jisaacks/GitGutter
+
 # Install Instructions:
 
 **Mac OSX**
@@ -38,7 +42,8 @@ SublimeRope:
     git clone git://github.com/SublimeLinter/SublimeLinter.git
     rm -rf SublimeRope
     git clone git://github.com/JulianEberius/SublimeRope.git
-
+    rm -rf GitGutter
+    git clone https://github.com/jisaacks/GitGutter.git
 
 **Linux:**
 
@@ -51,7 +56,8 @@ SublimeRope:
     git clone git://github.com/SublimeLinter/SublimeLinter.git
     rm -rf SublimeRope
     git clone git://github.com/JulianEberius/SublimeRope.git
-
+    rm -rf GitGutter
+    git clone https://github.com/jisaacks/GitGutter.git
 
 # Update packages
 
