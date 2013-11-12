@@ -14,5 +14,6 @@
 	"ensure_newline_at_eof_on_save": true,
 	"word_wrap": false,
 	"sublimelinter": true,
-	"sublimelinter_popup_errors_on_save": true
+	"sublimelinter_popup_errors_on_save": true,
+	"bold_folder_labels": true
 }
