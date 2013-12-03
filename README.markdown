@@ -1,32 +1,16 @@
 Personal config to sublime-text-2:
 
-Django Syntax :
+Django Syntax : <https://github.com/squ1b3r/Djaneiro>
 
-    https://github.com/squ1b3r/Djaneiro
+Sublime Linter: <https://github.com/SublimeLinter/SublimeLinter>
 
-Sublime Linter:
+jQuery bundle: <https://github.com/mrmartineau/jQuery.git>
 
-    https://github.com/SublimeLinter/SublimeLinter
+CoffeeScript bundle: <https://github.com/jashkenas/coffee-script-tmbundle>
 
-jQuery bundle:
+SublimeCodeIntel: <https://github.com/SublimeCodeIntel/SublimeCodeIntel>
 
-    https://github.com/mrmartineau/jQuery.git
-
-CoffeeScript bundle:
-
-    https://github.com/jashkenas/coffee-script-tmbundle
-
-SublimeCodeIntel:
-
-    https://github.com/Kronuz/SublimeCodeIntel
-
-SublimeRope:
-
-    https://github.com/JulianEberius/SublimeRope
-
-Git Gutter
-
-    https://github.com/jisaacks/GitGutter
+Git Gutter: <https://github.com/jisaacks/GitGutter>
 
 # Install Instructions:
 
@@ -40,8 +24,8 @@ Git Gutter
     cd ..
     rm -rf SublimeLinter
     git clone git://github.com/SublimeLinter/SublimeLinter.git
-    rm -rf SublimeRope
-    git clone git://github.com/JulianEberius/SublimeRope.git
+    rm -rf SublimeCodeIntel
+    git clone git@github.com:SublimeCodeIntel/SublimeCodeIntel.git
     rm -rf GitGutter
     git clone https://github.com/jisaacks/GitGutter.git
 
@@ -54,8 +38,8 @@ Git Gutter
     cd ..
     rm -rf SublimeLinter
     git clone git://github.com/SublimeLinter/SublimeLinter.git
-    rm -rf SublimeRope
-    git clone git://github.com/JulianEberius/SublimeRope.git
+    rm -rf SublimeCodeIntel
+    git clone git@github.com:SublimeCodeIntel/SublimeCodeIntel.git
     rm -rf GitGutter
     git clone https://github.com/jisaacks/GitGutter.git
 

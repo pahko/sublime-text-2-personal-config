@@ -9,9 +9,10 @@ GitHub.sublime-settings
 
 # packages
 coffee-script-tmbundle
-SublimeCodeIntel/
 Djaneiro/
 jQuery/
 
 #tmp files
 .DS_Store
+*.sublime-project
+*.sublime-workspace
