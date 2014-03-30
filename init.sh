@@ -4,6 +4,7 @@ PACKAGES=(
 	https://github.com/jashkenas/coffee-script-tmbundle.git # Coffe-script
 	https://github.com/squ1b3r/Djaneiro.git # Djaneiro
 	https://github.com/mrmartineau/jQuery.git # jQUery
+	git@github.com:daaain/Handlebars.git
 )
 
 size=${#PACKAGES[@]}

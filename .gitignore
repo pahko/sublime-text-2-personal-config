@@ -11,6 +11,7 @@ GitHub.sublime-settings
 coffee-script-tmbundle
 Djaneiro/
 jQuery/
+Handlebars/
 
 #tmp files
 .DS_Store
