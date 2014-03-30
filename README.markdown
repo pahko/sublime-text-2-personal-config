@@ -12,6 +12,8 @@ SublimeCodeIntel: <https://github.com/SublimeCodeIntel/SublimeCodeIntel>
 
 Git Gutter: <https://github.com/jisaacks/GitGutter>
 
+Handlebars <https://github.com/daaain/Handlebars>
+
 # Install Instructions:
 
 **Mac OSX**
