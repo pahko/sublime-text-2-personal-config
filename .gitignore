@@ -1,17 +1,10 @@
 # package Control
-Package Control.sublime-settings
 Package Control.cache
 Package Control.last-run
 Package Control.system-ca-bundle
 
 sftp_servers/
 GitHub.sublime-settings
-
-# packages
-coffee-script-tmbundle
-Djaneiro/
-jQuery/
-Handlebars/
 
 #tmp files
 .DS_Store
