@@ -2,7 +2,7 @@ Personal config to sublime-text-2:
 
 Django Syntax : <https://github.com/squ1b3r/Djaneiro>
 
-Sublime Linter: <https://github.com/SublimeLinter/SublimeLinter>
+Sublime Linter: <https://github.com/SublimeLinter/SublimeLinter-for-ST2>
 
 Handlebars <https://github.com/daaain/Handlebars>
 
